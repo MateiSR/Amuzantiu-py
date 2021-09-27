@@ -14,3 +14,6 @@ Replace token with your own bot's in config.json.
 ```json
 {"TOKEN": ""}
 ```
+
+## Archived
+This bot has been archived, for new updates check [MateiSR/AmuzantiuJS](https://github.com/MateiSR/AmuzantiuJS/)
