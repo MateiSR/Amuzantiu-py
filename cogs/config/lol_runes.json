@@ -1,0 +1,56 @@
+{
+    "Precision": {
+        "keystones": [
+            "Press the Attack",
+            "Lethal Tempo",
+            "Fleet Footwork",
+            "Conqueror"
+        ],
+        "secondary": [
+            ["Overheal", "Triumph", "Presence of Mind"],
+            ["Legend: Alacrity", "Legend: Tenacity", "Legend: Bloodline"],
+            ["Coup de Grace", "Cut Down", "Last Stand"]
+        ]
+    },
+    "Domination": {
+        "keystones": ["Electrocute", "Predator", "Dark Harvest", "Hail of Blades"],
+        "secondary": [
+            ["Cheap Shot", "Taste of Blood", "Sudden Impact"],
+            ["Zombie Ward", "Ghost Poro", "Eyeball Collection"],
+            [
+                "Ravenous Hunter",
+                "Ingenious Hunter",
+                "Relentless Hunter",
+                "Ultimate Hunter"
+            ]
+        ]
+    },
+    "Sorcery": {
+        "keystones": ["Summon Aery", "Arcane Comet", "Phase Rush"],
+        "secondary": [
+            ["Nullifying Orb", "Manaflow Band", "Nimbus Cloak"],
+            ["Transcendence", "Celerity", "Absolute Focus"],
+            ["Scorch", "Waterwalking", "Gathering Storm"]
+        ]
+    },
+    "Resolve": {
+        "keystones": ["Grasp of the Undying", "Aftershock", "Guardian"],
+        "secondary": [
+            ["Demolish", "Font of Life", "Shield Bash"],
+            ["Conditioning", "Second Wind", "Bone Plating"],
+            ["Overgrowth", "Revitalize", "Unflinching"]
+        ]
+    },
+    "Inspiration": {
+        "keystones": [
+            "Glacial Augment",
+            "Unsealed Spellbook",
+            "Prototype: Omnistone"
+        ],
+        "secondary": [
+            ["Hextech Flashtraption", "Magical Footwear", "Perfect Timing"],
+            ["Future's Market", "Minion Dematerializer", "Biscuit Delivery"],
+            ["Cosmic Insight", "Approach Velocity", "Time Warp Tonic"]
+        ]
+    }
+}

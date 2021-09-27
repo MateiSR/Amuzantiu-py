@@ -1,0 +1,5 @@
+{
+    "TOKEN": "",
+    "modules": ["utils", "fun", "nsfw", "abuse", "games", "misc", "music"],
+    "prefix": "a "
+}

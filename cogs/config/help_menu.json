@@ -1,0 +1,27 @@
+{
+    "utils": ["ping", "eval"],
+    "fun": [
+        "waifu",
+        "gay",
+        "gamer",
+        "simp",
+        "8ball",
+        "imagine",
+        "spoiler",
+        "big"
+    ],
+    "games": ["build", "wf [item]"],
+    "misc": ["covid"],
+    "nsfw": ["rule34", "pixiv"],
+    "abuse": [
+        "mute",
+        "deafen",
+        "punish",
+        "disconnect",
+        "moveall",
+        "multispam",
+        "massacre",
+        "fastmove"
+    ],
+    "music": ["."]
+}
