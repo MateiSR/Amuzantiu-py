@@ -3,7 +3,7 @@ Amuzantiu is a Discord bot written in discord-py@rewrite, mainly for self-hostin
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
 pip install -r requirements.txt
